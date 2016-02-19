@@ -86,3 +86,4 @@ source $ZSH/oh-my-zsh.sh
 alias pacman="sudo /home/michael/reinstall_info/pacman"
 alias ls="ls --color=auto"
 alias eclipse="~/development/eclipse/eclipse"
+alias network="sudo /usr/lib/network/network"
